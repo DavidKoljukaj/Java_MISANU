@@ -1,4 +1,3 @@
-# Java_MISANU
 # Razvoj Java aplikacija
 # Primena principa Objektno orijentisanog dizajna
 # Dizajniranje hijerarhije nasleđivanja
